@@ -78,8 +78,6 @@ namespace RandomTraining
             // Output:
             // The set (2, 3, 4) parsed: (2, 3, 4)
 
-
-
             Console.ReadKey(true);
         }
     }
